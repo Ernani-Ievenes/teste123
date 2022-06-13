@@ -3,6 +3,6 @@ repositório teste
 
 apenas testando um commit
 
-Gostaria que ficasse assim...
-
 Nova adição
+
+Mas eu quero assim...
